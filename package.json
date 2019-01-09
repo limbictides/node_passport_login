@@ -1,7 +1,7 @@
 {
-  "name": "node_passport_login",
+  "name": "limbictides",
   "version": "1.0.0",
-  "description": "",
+  "description": "mental health app",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -23,7 +23,8 @@
   },
   "devDependencies": {
     "nodemon": "^1.18.9"
-  }
+  },
   "engines": {
-    "node": "10.7.0"
+    "node": "10.7.x"
+  }
 }
